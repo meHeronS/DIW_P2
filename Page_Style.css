@@ -1,0 +1,83 @@
+/* TITULOS */
+h1 {
+    font : 48px;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow:black;
+    color: crimson;
+    padding: 10%;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    color: darkred;
+    font-family: 'Franklin Gothic Medium';
+    text-decoration:solid;
+}
+
+h3 {
+    color: firebrick;
+}
+
+/* CORPO */
+
+body {
+    background-color: blanchedalmond;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+}
+
+/*Botões*/
+button{
+    color: darkgreen;
+    font-size: 100%;
+    font-style: italic;
+}
+/*Imagem*/
+
+img{
+    width: 200px;
+    
+}
+
+/* 
+Paragrafos */
+
+p {
+    color:orangered;
+}
+
+/**DIVISORES*/
+div{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+/*
+font-size: px
+line-height: px
+font-family:
+font-weight:
+background-color:#
+background-color:rgb()
+color:
+color:rgb()
+color:#
+text-align: center
+text-decoration:
+font-style: normal
+margin-top: px
+margin-bottom: px
+margin-left: px
+margin-right: px
+padding: px
+border: px solid #
+border-radius: 
+*/
+   
+
